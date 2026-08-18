@@ -11,8 +11,8 @@ def add(a, b):
 add(10, 20)
 
 # Default argument
-def greet(name="Darshit"):
+def greet(name="Jaimin"):
     print("Hello", name)
 
 greet()
-greet("Rahul")
+greet("Vala")
